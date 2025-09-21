@@ -1,18 +1,13 @@
-## Getting Started
+CRUD Gerenciador de Tarefas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto Java simples para gerenciar tarefas usando PostgreSQL. Permite adicionar, listar, atualizar e deletar tarefas via console.
 
-## Folder Structure
+Tecnologias: Java 17, Maven, PostgreSQL, JDBC.
 
-The workspace contains two folders by default, where:
+Estrutura do projeto: Main.java (classe principal com menu interativo), Tarefa.java (classe modelo da tarefa), TarefaDAO.java (classe de acesso a dados para CRUD), DatabaseConnection.java (gerencia a conexão com o banco), DAOException.java (tratamento de exceções customizado).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Funcionalidades: adicionar tarefa com título, descrição e status; listar todas as tarefas; atualizar status de uma tarefa existente; remover tarefa pelo ID.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Como rodar: configure seu banco PostgreSQL criando a tabela tarefas com id SERIAL PRIMARY KEY, titulo VARCHAR(100), descricao TEXT e status VARCHAR(50). Configure DatabaseConnection.java com URL, USER e PASSWORD corretos. Compile e execute via Maven usando mvn compile e mvn exec:java -Dexec.mainClass="Main".
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Observações: o menu é interativo via console; para encerrar o programa, selecione a opção 0 - Sair do gerenciador.
