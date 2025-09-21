@@ -1,6 +1,6 @@
 CRUD Gerenciador de Tarefas
 
-Projeto Java simples para gerenciar tarefas usando PostgreSQL. Permite adicionar, listar, atualizar e deletar tarefas via console.
+Projeto Java para gerenciar tarefas usando PostgreSQL. Permite adicionar, listar, atualizar e deletar tarefas via console.
 
 Tecnologias: Java 17, Maven, PostgreSQL, JDBC.
 
