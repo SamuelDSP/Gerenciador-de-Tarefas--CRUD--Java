@@ -1,0 +1,61 @@
+@options
+@argfile
+-classpath
+'C:/Users/samue/.m2/repository/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Pasta de Projetos/CRUD Java/CRUD Java/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Pasta de Projetos/CRUD Java/CRUD Java/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'crud-java 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'crud-java 1.0-SNAPSHOT API'
+'C:/Pasta de Projetos/CRUD Java/CRUD Java/src/main/java/DAOException.java'
+'C:/Pasta de Projetos/CRUD Java/CRUD Java/src/main/java/DatabaseConnection.java'
+'C:/Pasta de Projetos/CRUD Java/CRUD Java/src/main/java/Main.java'
+'C:/Pasta de Projetos/CRUD Java/CRUD Java/src/main/java/Tarefa.java'
+'C:/Pasta de Projetos/CRUD Java/CRUD Java/src/main/java/TarefaDAO.java'
+C:\Users\samue\.m2\repository\org\postgresql\postgresql\42.6.0\postgresql-42.6.0.jar = 1758224546291
+C:\Pasta de Projetos\CRUD Java\CRUD Java\src\main\java\DAOException.java = 1758459683968
+C:\Pasta de Projetos\CRUD Java\CRUD Java\src\main\java\DatabaseConnection.java = 1758459773904
+C:\Pasta de Projetos\CRUD Java\CRUD Java\src\main\java\Main.java = 1758460526368
+C:\Pasta de Projetos\CRUD Java\CRUD Java\src\main\java\Tarefa.java = 1758401790763
+C:\Pasta de Projetos\CRUD Java\CRUD Java\src\main\java\TarefaDAO.java = 1758402007131
+C:\Pasta de Projetos\CRUD Java\CRUD Java\src\main\java = 1758387358022
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\allclasses-index.html = 1758460960600
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\allpackages-index.html = 1758460960606
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\DAOException.html = 1758460959949
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\DatabaseConnection.html = 1758460960023
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\element-list = 1758460960265
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\help-doc.html = 1758460960656
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\index-all.html = 1758460960641
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\index.html = 1758460960646
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\jquery-ui.overrides.css = 1758460960708
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\Main.html = 1758460960067
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\member-search-index.js = 1758460960616
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\module-search-index.js = 1758460960610
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\overview-tree.html = 1758460960539
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\package-search-index.js = 1758460960612
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\package-summary.html = 1758460960325
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\package-tree.html = 1758460960348
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\package-use.html = 1758460960524
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\script.js = 1758460960667
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\search.js = 1758460960674
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\serialized-form.html = 1758460960375
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\stylesheet.css = 1758460960660
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\tag-search-index.js = 1758460960619
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\Tarefa.html = 1758460960155
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\TarefaDAO.html = 1758460960234
+C:\Pasta de Projetos\CRUD Java\CRUD Java\target\site\apidocs\type-search-index.js = 1758460960614
