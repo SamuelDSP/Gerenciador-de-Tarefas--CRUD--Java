@@ -18,7 +18,7 @@ public class DatabaseConnection {
     private static final String USER = "postgres";
 
     /** Senha do usuário do banco de dados. */
-    private static final String PASSWORD = "Bernadete9";
+    private static final String PASSWORD = "Sua_Senha_Aqui";
 
     /**
      * Cria e retorna uma conexão com o banco de dados PostgreSQL.
